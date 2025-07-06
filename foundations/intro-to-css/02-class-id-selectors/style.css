@@ -1,0 +1,16 @@
+.odd {
+  background: rgb(237, 147, 203);
+  font-family : "Verdana","DejaVu Sans","sans-serif";
+}
+.third {
+  font-size : 24px;
+}
+#second {
+  color : rgb(5, 22, 255);
+  font-size : 36px;
+}
+#fourth {
+  background : rgb(5, 255, 17);
+  font-size : 24px; /*looking at the solution this could be combined with the third class*/
+  font-weight : bold;
+}
